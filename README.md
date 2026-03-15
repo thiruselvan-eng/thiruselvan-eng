@@ -1,6 +1,11 @@
 # Hi 👋 I'm Thiru Selvan
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Thiru+Selvan;Aspiring+Software+Developer;AI+%7C+ML+Enthusiast;Building+Cool+Projects)](https://git.io/typing-svg)
 
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=thiruselvan-eng)
+
+
 ## 🚀 About Me
 - 🎓 Computer Science Student
 - 🤖 Interested in Artificial Intelligence
@@ -23,7 +28,7 @@
 
 ## 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/yourleetcodeusername?theme=dark&font=Baloo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ZEZ_THIRU?theme=dark&font=Baloo)
 
   ## 📊 GitHub Stats
 
