@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Thiru Selvan 👋
 
-<!--
-**thiruselvan-eng/thiruselvan-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring Software Developer | AI & ML Enthusiast
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Computer Science Student
+- 🤖 Interested in Artificial Intelligence
+- 💡 Building AI and Web projects
+- 🧠 Learning Data Structures and Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Python | JavaScript | React | FastAPI | HTML | CSS | Git
+
+## 📌 Projects
+- AI Powered Image Forgery Detection
+- SUBASH AI Chatbot
+- Web Development Projects
+
+## 📫 Contact
+LinkedIn: (add your link)
+Email: (add your email)
+
+⭐ Always learning new technologies!
