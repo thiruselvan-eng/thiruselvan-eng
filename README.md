@@ -34,6 +34,10 @@
 
 ![Thiru's GitHub stats](https://github-readme-stats.vercel.app/api?username=thiruselvan-eng&show_icons=true&theme=tokyonight)
 
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=thiruselvan-eng&theme=tokyonight)
+
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/thiruselvan-eng/thiruselvan-eng/blob/output/github-contribution-grid-snake.svg)
