@@ -9,7 +9,7 @@
 - 🧠 Learning Data Structures and Algorithms
 
 ## 🛠 Tech Stack
-Python | JavaScript | React | FastAPI | HTML | CSS | Git
+Java|c|Python | JavaScript | HTML | CSS | Git
 
 ## 📌 Projects
 - AI Powered Image Forgery Detection
@@ -17,7 +17,7 @@ Python | JavaScript | React | FastAPI | HTML | CSS | Git
 - Web Development Projects
 
 ## 📫 Contact
-LinkedIn: (add your link)
-Email: (add your email)
+LinkedIn: (THIRUSELVAN M)
+Email: (thiruselvan248@gmail.com)
 
 ⭐ Always learning new technologies!
