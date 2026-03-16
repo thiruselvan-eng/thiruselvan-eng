@@ -148,9 +148,6 @@ Multiple responsive websites using HTML, CSS and JavaScript.
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/thiruselvan-eng/thiruselvan-eng/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
