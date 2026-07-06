@@ -22,7 +22,7 @@
 
 ## 📌 Projects
 - AI Powered Image Forgery Detection
-- SUBASH AI Chatbot
+- AI Chatbot
 - Web Development Projects
 
 
@@ -46,9 +46,6 @@
 
 ![3D Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thiruselvan-eng&theme=tokyonight)
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/thiruselvan-eng/thiruselvan-eng/blob/output/github-contribution-grid-snake.svg)
 
 ## 👀 Profile Visitors
 
@@ -210,7 +207,7 @@ thiruselvan248@gmail.com
 🔹 **AI Powered Image Forgery Detection**  
 Deep learning model to detect manipulated images.
 
-🔹 **SUBASH AI Chatbot**  
+🔹 **AI Chatbot**  
 AI chatbot built using Python, FastAPI and React.
 
 🔹 **Web Development Projects**  
