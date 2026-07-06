@@ -84,7 +84,7 @@ Email: (thiruselvan248@gmail.com)
 - 🎓 Computer Science Student  
 - 🤖 Interested in Artificial Intelligence & Machine Learning  
 - 💡 Building AI and Web Development Projects  
-- 🧠 Learning Data Structures and Algorithms (Blind 75)
+- 🧠 Learning Data Structures and Algorithms
 
 ---
 
